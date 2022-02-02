@@ -1,6 +1,6 @@
 {
-  "name": "react-use",
-  "version": "17.3.2",
+  "name": "@sekmet/react-use",
+  "version": "17.3.3",
   "description": "Collection of React Hooks",
   "main": "lib/index.js",
   "module": "esm/index.js",
@@ -63,8 +63,8 @@
     "tslib": "^2.1.0"
   },
   "peerDependencies": {
-    "react": "^16.8.0  || ^17.0.0",
-    "react-dom": "^16.8.0  || ^17.0.0"
+    "react": "^16.8.0  || ^17.0.0 || ^18.0.0-rc.0",
+    "react-dom": "^16.8.0  || ^17.0.0 || ^18.0.0-rc.0"
   },
   "devDependencies": {
     "@babel/core": "7.16.0",
